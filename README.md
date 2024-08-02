@@ -8,7 +8,7 @@
 
 ## Ссылки на скачивание
 
-- **geosite.dat**：<https://github.com/1andrevich/antifilter-domain/releases/latest/download/geosite.dat>
+- **geosite.dat**：<https://github.com/westruk/antifilter-domain/releases/latest/download/geosite.dat>
 
 ## Пример использования
 
