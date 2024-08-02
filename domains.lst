@@ -368,11 +368,6 @@ zetflix.online
 znanija.com
 zohomail.com
 zona.media
-
-# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2024-07-28
-# Youtube
-
 _domainkey.youtube.com
 a.rtmp.youtube.com
 a.rtmps.youtube.com
