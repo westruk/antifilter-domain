@@ -30,7 +30,7 @@ jobs:
         shell: bash
 
       - name: Download list
-        run: mkdir data && curl -o data/antifilter-community https://github.com/westruk/antifilter-domain/raw/main/domains.lst
+        run: mkdir data && curl -o data/antifilter-community https://droidhub.pro/domains.lst
 
       - name: Build dat file
         run: |
